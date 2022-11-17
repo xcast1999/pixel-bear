@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x79d8fa9e32f68b2cbcaa69dc7758f91e4ad8ecfb",
+  "SCAN_LINK": "https://polygonscan.com/address/0x79d8fa9e32f68b2cbcaa69dc7758f91e4ad8ecfb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixel Bears",
+  "SYMBOL": "PB",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 314000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixel-bear-official",
+  "SHOW_BACKGROUND": false
+}
